@@ -25,7 +25,7 @@ Ultralytics Installation:
 
 Install Ultralytics using pip:
 rust
-Copy code
+
 pip install -U 'git+https://github.com/ultralytics/yolov8.git'
 YOLOv8 Model Installation:
 
@@ -35,12 +35,12 @@ Roboflow Setup:
 Sign up for a Roboflow account: https://app.roboflow.com/signup
 Follow the instructions to upload and manage your training data.
 Flask Installation:Install Flask using pip:
-Copy code
+Code to install
 pip install Flask
 OpenCV Installation:
 
 Install OpenCV using pip:
-Copy code
+Code to install c
 pip install opencv-python
 Libraries and Dependencies:
 
