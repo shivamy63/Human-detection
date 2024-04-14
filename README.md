@@ -54,8 +54,9 @@ Ultralytics: Toolkit for computer vision tasks, including object detection.
 Roboflow: Platform for managing and augmenting training data for computer vision models.
 These libraries and dependencies are essential for developing and deploying the robust human target detection and acquisition system. Make sure to install them using the provided installation steps to ensure smooth execution of the project.
 
-
-
+Link of codes and other libraries,dependencies references:https://drive.google.com/drive/folders/19M3A9D4Qiq2sR7S_uh1h-41QB967JB--?usp=drive_link
+Demo video link:https://drive.google.com/drive/folders/19M3A9D4Qiq2sR7S_uh1h-41QB967JB--?usp=drive_link
+Youtube video link:https://youtu.be/jTwMVdfN5QI?si=8UkDL0vfLnBR36Tr
 
 
 
